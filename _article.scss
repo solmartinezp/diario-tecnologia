@@ -1,0 +1,25 @@
+article {
+    width: 50%;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    h2{
+        margin-top: 20px;
+        width: 90%;
+        align-self: center;
+        text-align: left;
+        font-family: $font-article;
+        text-transform: uppercase;
+        font-size: 45px;
+        border-bottom: 1px solid black;
+    }
+    p {
+        width: 90%;
+        margin-top: 20px 0 20px;
+        align-self: center;
+        text-align: left;
+        font-family: $font-p;
+        font-size: 25px;
+    }
+}

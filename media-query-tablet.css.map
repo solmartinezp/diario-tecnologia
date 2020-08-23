@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "media-query-tablet.scss"
+    ],
+    "names": [],
+    "file": "media-query-tablet.css"
+}
