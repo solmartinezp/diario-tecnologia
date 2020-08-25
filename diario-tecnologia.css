@@ -304,6 +304,9 @@ footer .social_media .fa:hover {
     -webkit-transition: all 1s linear;
     transition: all 1s linear;
   }
+  * .div-contenedor nav .menu-icon {
+    cursor: pointer;
+  }
   * .div-contenedor nav .menu-icon span {
     margin-left: 10px;
     z-index: 10;
@@ -322,7 +325,6 @@ footer .social_media .fa:hover {
     display: block;
     height: 100%;
     width: 100%;
-    position: absolute;
     -webkit-transition: all .2s ease-out;
     transition: all .2s ease-out;
     top: 5px;
@@ -333,7 +335,6 @@ footer .social_media .fa:hover {
     content: "";
     height: 100%;
     width: 100%;
-    position: absolute;
     -webkit-transition: all .2s ease-out;
     transition: all .2s ease-out;
     top: -5px;
@@ -453,6 +454,9 @@ footer .social_media .fa:hover {
     max-height: 0;
     -webkit-transition: all 1s linear;
     transition: all 1s linear;
+  }
+  .div-contenedor nav .menu-icon {
+    cursor: pointer;
   }
   .div-contenedor nav .menu-icon span {
     margin-left: 10px;
