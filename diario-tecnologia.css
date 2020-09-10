@@ -325,6 +325,7 @@ footer .social_media .fa:hover {
     display: block;
     height: 100%;
     width: 100%;
+    position: absolute;
     -webkit-transition: all .2s ease-out;
     transition: all .2s ease-out;
     top: 5px;
@@ -335,6 +336,7 @@ footer .social_media .fa:hover {
     content: "";
     height: 100%;
     width: 100%;
+    position: absolute;
     -webkit-transition: all .2s ease-out;
     transition: all .2s ease-out;
     top: -5px;
